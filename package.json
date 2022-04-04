@@ -1,0 +1,22 @@
+{
+  "name": "portolfio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-wiles/portolfio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-wiles/portolfio-generator/issues"
+  },
+  "homepage": "https://github.com/a-wiles/portolfio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
